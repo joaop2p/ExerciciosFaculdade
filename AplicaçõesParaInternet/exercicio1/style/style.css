@@ -1,0 +1,51 @@
+body {
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+background-color: rgb(22, 22, 22);
+font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.Banner {
+    background-color: rgb(168, 168, 168);
+    height: 70px;
+    background-position-y: top;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: white;
+    text-align: center;
+    }
+    .Containers {
+        width: 210px;
+        height: 210px;
+        background-color: rgb(143, 143, 143);
+        color: rgb(255, 255, 255);
+        text-align: center;
+        border-radius: 5%;
+        margin-left: 13%;
+        margin-right: auto;
+        display: inline-block;
+    }
+    .divAO {
+        height: 33.3%;
+        margin-top: 6%;
+    }
+    .imagem {
+        border-radius: 10px;
+        width:60%;
+        height:60%;
+    }
+    .titulo {
+        height: 37px;
+        width: 300px;
+        background-color: rgb(48, 38, 38);
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50px;
+        color: white;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
